@@ -1,6 +1,6 @@
-# Discord Auto Script
+# Linux Discord Manager
 
-Welcome to the Discord Auto Script repository! This script is designed to simplify the process of installing and updating Discord on Linux systems (that don't update their package repos frequently like Manjaro). It ensures you always have the latest version of Discord with just one command.
+Welcome to the Linux Discord Manager repository! This script is designed to simplify the process of installing and updating Discord on Linux systems (that don't update their package repos frequently like Manjaro). It ensures you always have the latest version of Discord with just one command.
 
 ## Features
 
