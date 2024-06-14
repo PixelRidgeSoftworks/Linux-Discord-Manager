@@ -63,9 +63,9 @@ We welcome contributions to enhance the functionality and usability of this scri
    - Push to the branch (git push origin feature-branch).
    - Open a Pull Request.
 
-License
+## License
 
-This project is licensed under the MIT License. See the LICENSE file for more details.
+This project is licensed under the GNU GENERAL PUBLIC LICENSE Version 3. See the LICENSE file for more details.
 
 This script is developed and maintained by **PixelRidge Softworks**. For more information about our products and services [visit our website](https://pixelridgesoftworks.com).
 
