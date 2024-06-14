@@ -21,7 +21,7 @@ To install the Discord Auto Script, follow these steps:
    - Clone the repository:
 
 ```bash
-    git clone https://github.com/PixelRidge-Softworks/Manjaro-Discord-Manager.git
+    git clone https://github.com/PixelRidge-Softworks/Linux-Discord-Manager.git
     cd discord-auto-update
 ```
 
