@@ -1,3 +1,5 @@
+## NOTICE: Due to real life things, and this being a one-man operation, our websites have been discontinued until future notice! If you have questions or need support, please join our Libera Chat Channel!!
+
 # Linux Discord Manager
 
 Welcome to the Linux Discord Manager repository! This script is designed to simplify the process of installing and updating Discord on Linux systems (that don't update their package repos frequently like Manjaro). It ensures you always have the latest version of Discord with just one command.
